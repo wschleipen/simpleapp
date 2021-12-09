@@ -5,7 +5,7 @@
 	</head>
 
 <body> 
-	<h1>PHP Test</h1>
+	<h1>PHP Exam Test</h1>
 		<p><b>An Example of PHP in Action, slightly modified ;.-)</b></p>
                 <p>With a new line of text added here to demonstrate build updates</p>
 		<?php echo "The Current Date and Time is: <br />"; 
